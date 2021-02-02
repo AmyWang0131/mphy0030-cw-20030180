@@ -1,7 +1,7 @@
 %%Plotting multivariate Gaussian probability density surfaces
 
 
-%%Randomly generate 10,000 samples of ?from any distribution
+%%Randomly generate 10,000 samples of X from any distribution
 mu = [0 0];
 Sigma = [0.25 0.3; 0.3 1];
 

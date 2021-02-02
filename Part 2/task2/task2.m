@@ -1,5 +1,5 @@
 % Visualizing fluid flow
-v = flow(50);
+ v = flow(50);
  h = Image3D('cdata',v,'texture','2D');
  view(3); 
  % Update view since 'texture' = '2D'
